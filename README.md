@@ -2,6 +2,10 @@
 
 This application collects data on the current road difficulties in Poland and displays them on an interactive map.
 
+##
+
+You can see the results here [utrudnienia-drogowe.web.app](https://utrudnienia-drogowe.web.app/)
+
 
 ### Data
 
